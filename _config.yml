@@ -216,16 +216,16 @@ kramdown:
 collections:
   teaching:
     output: false # true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
   publications:
     output: false # true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
   portfolio:
     output: false # true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
   talks:
     output: false # true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

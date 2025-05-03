@@ -1,5 +1,2 @@
-{% include base_path %}
-{% assign navigation = site.data.navigation[include.nav] %}
-
 <!-- Empty navigation -->
 <nav class="nav__list"></nav>

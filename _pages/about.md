@@ -11,7 +11,7 @@ Hi! I am a Ph.D. student in Economics at USC. I hold a B.Sc in Economics from th
 
 ## Working Papers
 
-* [Formalizing Microentrepreneurs through Targeted Tax Systems: Evidence from Brazil](https://github.com/robertohsurocha/MEI/raw/main/MEI_farias_hrocha.pdf) (with Roberto Hsu Rocha)
+* [Formalizing Microentrepreneurs through Targeted Tax Systems: Evidence from Brazil](https://github.com/robertohsurocha/MEI/raw/main/MEI_farias_hrocha.pdf) (with Roberto Hsu Rocha), R\&R at **Journal of Public Economics**.
 
 ## Policy Reports
 
